@@ -1,0 +1,75 @@
+.ejercicio1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+#cheems {
+  width: 20rem;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(0, 255, 255, 0.123);
+  margin: 2rem 2rem 0 2rem;
+}
+.titulo2 {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: x-large;
+}
+.card img {
+  width: 10rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 15rem;
+  padding: 2rem;
+}
+.ejercicio2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+ }
+
+.box {
+  width: 3rem;
+  margin-top: 0.5rem;
+}
+
+#resultados2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 255, 255, 0.123);
+  margin: 0rem 2rem 0 2rem;
+}
+
+button {
+  margin: 0.5rem 0 0.5rem 0;
+}
+
+.titulo3 {
+  text-align: center;
+  margin-top: 2rem;
+}
+.ejercicio3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+#resultados3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
